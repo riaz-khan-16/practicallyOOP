@@ -3,3 +3,4 @@ class Person:
               self.name=name
 obj=Person("Riaz")
 print(obj.name)
+
